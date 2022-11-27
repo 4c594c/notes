@@ -1,2 +1,2 @@
-# image-repo
-个人笔记图床
+# notes
+个人笔记备份
